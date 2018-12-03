@@ -40,7 +40,7 @@ body {
 li{
     margin: 10px;
     display: inline;
-    border: 2px solid darkblue;
+    border: 2px thin darkblue ;
 }
 li:hover{
     cursor: pointer;
