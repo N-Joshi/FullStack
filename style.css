@@ -40,4 +40,12 @@ body {
 li{
     margin: 10px;
     display: inline;
+    border: 2px solid darkblue;
+}
+li:hover{
+    cursor: pointer;
+    border: 1px solid crimson;
+    background-color: gold;
+    transition:all ease-in;
+    transition-duration: 3ms;
 }
