@@ -1,0 +1,43 @@
+body {
+    background-image:linear-gradient(to right,rgba(191,255,128,0),rgba(166,255,7755,1)), url("pexels-photo-255379.jpeg");
+    background-color: #cccccc;
+    background-size: cover;
+}
+
+.topnav-right {
+  float: right; 
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.nav{
+    text-align: left;
+    font-size:23px;
+}
+
+.nav-according{
+    text-align: left;
+    font-size:23px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.headings{
+  font-style: italic;
+  font-family: cursive;
+  color:darkblue; 
+  font-size: 30px;
+}
+
+.button{
+    margin-right:25px;
+}
+
+li{
+    margin: 10px;
+    display: inline;
+}
